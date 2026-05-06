@@ -18,6 +18,7 @@ The dashboard is designed to answer the following key business questions:
 6.  Which ad types (Video, Stories, Image, Carousel) perform best?
 7.  How does engagement vary over time (weekly and hourly)?
 8.  How efficiently is the advertising budget utilized?
+# Dashboard Interaction
 
 # Process
 The analysis was performed on Meta Ads data using the following steps:
