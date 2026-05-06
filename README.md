@@ -6,7 +6,7 @@ This project analyzes advertising performance data from Meta platforms (Facebook
 The dashboard provides insights into customer behavior, ad effectiveness, and budget utilization, helping improve targeting strategies, campaign performance, and return on investment (ROI).
 
 # Dataset Used
-- <a href="">Dataset<a/>
+- <a href="https://github.com/RajiaAfrin/Meta_Ad_performance_Analysis/tree/main/Meta%20Ad%20Analysis">Dataset<a/>
 
 # Key Performance Indicators (KPIs) / Business Questions
 The dashboard is designed to answer the following key business questions:
@@ -29,7 +29,8 @@ The analysis was performed on Meta Ads data using the following steps:
 6.  Extracted insights to support marketing and business decision-making
 
 # Dashboard
-(Add dashboard screenshot here)
+<img width="1163" height="673" alt="image" src="https://github.com/user-attachments/assets/ed82ebf0-9fbe-43fd-8720-d7f5273b875f" />
+
 
 # Key Insights
 1. Ads generate strong reach and engagement, indicating effective top-of-funnel performance.
