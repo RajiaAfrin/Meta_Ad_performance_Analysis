@@ -31,6 +31,8 @@ The analysis was performed on Meta Ads data using the following steps:
 6.  Extracted insights to support marketing and business decision-making
 
 # Dashboard
+<img width="1166" height="670" alt="image" src="https://github.com/user-attachments/assets/51f29d63-de16-40fb-a41c-44f8c118f769" />
+
 <img width="1163" height="673" alt="image" src="https://github.com/user-attachments/assets/ed82ebf0-9fbe-43fd-8720-d7f5273b875f" />
 
 
